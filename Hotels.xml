@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Hotels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="Hotels.xsd">
+	
+	<Hotel Rating="4.2">
+		<Name>Westin</Name>
+		<Phone>480-968-8885</Phone>
+		<Phone>800-937-8461</Phone>
+		<Address NearstAirport="Sky Harbor">
+			<Number>11</Number>
+			<Street>E. 7th St</Street>
+			<City>Tempe</City>
+			<State>AZ</State>
+			<Zip>85281</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="4.2">
+		<Name>Marriott Phoenix Resort Tempe at The Buttes</Name>
+		<Phone>602-225-9000</Phone>
+		<Address NearstAirport="BOS-Logan Intl.">
+			<Number>2000</Number>
+			<Street>W Westcourt Way</Street>
+			<City>Tempe</City>
+			<State>AZ</State>
+			<Zip>85282</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel>
+		<Name>Renaissance Phoenix Downtown</Name>
+		<Phone>602-333-0000</Phone>
+		<Address NearstAirport="BOS-Logan Intl.">
+			<Number>100</Number>
+			<Street>N 1st St</Street>
+			<City>Pheonix</City>
+			<State>AZ</State>
+			<Zip>85004</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="4.8">
+		<Name>Boston Harbor Hotel</Name>
+		<Phone>617-439-7000</Phone>
+		<Address NearstAirport="BOS-Logan Intl.">
+			<Number>70</Number>
+			<Street>Rowes Wharf</Street>
+			<City>Boston</City>
+			<State>MA</State>
+			<Zip>02110</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="4.55">
+		<Name>Omni Boston Hotel at the Seaport</Name>
+		<Phone>617-476-6664</Phone>
+		<Address NearstAirport="BOS-Logan Intl.">
+			<Number>450</Number>
+			<Street>Summer Street</Street>
+			<City>Boston</City>
+			<State>MA</State>
+			<Zip>02210</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel>
+		<Name>Copley Square Hotel</Name>
+		<Phone>617-536-9000</Phone>
+		<Address NearstAirport="BOS-Logan Intl.">
+			<Number>47</Number>
+			<Street>Huntington Ave</Street>
+			<City>Boston</City>
+			<State>MA</State>
+			<Zip>02116</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="4.8">
+		<Name>Seaport Hotel Boston</Name>
+		<Phone>617-965-7700</Phone>
+		<Phone>617-385-4000</Phone>
+		<Address NearstAirport="BOS-Logan Intl.">
+			<Number>1</Number>
+			<Street>Seaport Lane</Street>
+			<City>Boston</City>
+			<State>MA</State>
+			<Zip>02210</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel>
+		<Name>The Westin Boston Seaport District</Name>
+		<Phone>617-691-1000</Phone>
+		<Phone>617-532-4600</Phone>
+		<Address NearstAirport="BOS-Logan Intl.">
+			<Number>425</Number>
+			<Street>Summer St</Street>
+			<City>Boston</City>
+			<State>MA</State>
+			<Zip>02210</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel>
+		<Name>The Revolution Hotel</Name>
+		<Phone>617-848-9200</Phone>
+		<Address NearstAirport="BOS-Logan Intl.">
+			<Number>40</Number>
+			<Street>Berkeley Street</Street>
+			<City>Boston</City>
+			<State>MA</State>
+			<Zip>02116</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="4.6">
+		<Name>Hampton Inn Boston Seaport District</Name>
+		<Phone>857-356-3033</Phone>
+		<Address NearstAirport="BOS-Logan Intl.">
+			<Number>670</Number>
+			<Street>Summer Street</Street>
+			<City>Boston</City>
+			<State>MA</State>
+			<Zip>02210</Zip>
+		</Address>
+	</Hotel>
+
+	<Hotel Rating="4.7">
+		<Name>Four Seasons Hotel Boston</Name>
+		<Phone>617-338-4400</Phone>
+		<Address NearstAirport="BOS-Logan Intl.">
+			<Number>200</Number>
+			<Street>Boylston St</Street>
+			<City>Boston</City>
+			<State>MA</State>
+			<Zip>02116</Zip>
+		</Address>
+	</Hotel>
+	
+</Hotels>
